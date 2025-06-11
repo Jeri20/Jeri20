@@ -1,4 +1,4 @@
-<h3 align="left">Hi there! I'm Jerita — a passionate data analyst who turns raw data into real insights.</h3>
+<h3 align="center">Hi there! I'm Jerita — a passionate data analyst who turns raw data into real insights.</h3>
 
 ###
 
