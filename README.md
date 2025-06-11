@@ -3,13 +3,19 @@
 ###
 
 <div align="center">
+  <img height="200" src="https://postimg.cc/rdPPJpg9"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jeri20&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jeri20&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
@@ -31,11 +37,11 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.youtube.com/@jeriartz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <a href="mailto:jerita.d537@gmail.com" target="_blank">
+  <a href="jerita.d537@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/jeritad20/" target="_blank">
@@ -52,7 +58,7 @@
 
 ###
 
-<h6 align="left">🔭 I’m currently working on a few exciting data projects involving predictive analytics and visualization. <br><br>😄 Fun fact: I’ve been known to get emotionally attached to clean, well-labelled datasets.</h6>
+<h6 align="left">I’m currently working on a few exciting data projects involving predictive analytics and visualization. <br>Exploring patterns, building models, and telling meaningful stories with data is what keeps me motivated.<br> I enjoy digging deep into messy datasets and transforming them into clean, actionable insights.<br>Fun fact: I’ve been known to get emotionally attached to clean, well-labelled datasets.</h6>
 
 ###
 
