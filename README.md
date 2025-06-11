@@ -58,6 +58,6 @@
 
 ###
 
-<h6 align="left">I’m currently working on a few exciting data projects involving predictive analytics and visualization.<br> <br>Exploring patterns, building models, and telling meaningful stories with data is what keeps me motivated.<br><br> I enjoy digging deep into messy datasets and transforming them into clean, actionable insights.<br><br>Fun fact: I’ve been known to get emotionally attached to clean, well-labelled datasets.</h6>
+<h6 align="left">I’m currently working on a few exciting data projects involving predictive analytics and visualization.<br> <br>Exploring patterns, building models, and telling meaningful stories with data is what keeps me motivated.<br><br> I enjoy digging deep into messy datasets and transforming them into clean, actionable insights.<br><br>Currently sharpening my skills in SQL, Power BI, and Python-based data pipelines.<br><br>Fun fact: I’ve been known to get emotionally attached to clean, well-labelled datasets.</h6>
 
 ###
