@@ -11,16 +11,9 @@ Hi there! I'm Jerita — a passionate data analyst who turns raw data into real 
 ---
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Jeri20&show_icons=true&theme=dracula&hide_border=false"
-    height="150"
-    alt="GitHub stats"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Jeri20&layout=compact&langs_count=5&theme=dracula&hide_border=false"
-    height="150"
-    alt="Top languages"
-  />
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Jeri20"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeri20&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
 
 ---
