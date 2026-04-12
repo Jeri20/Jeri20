@@ -58,7 +58,7 @@ Hi there! I'm Jerita — a passionate data analyst who turns raw data into real 
 </a>
 
 </div>
----
+
 
 <img align="left" height="140" src="https://i.postimg.cc/wjN1mPGg/Screenshot-2025-06-11-160232.png"/>
 
