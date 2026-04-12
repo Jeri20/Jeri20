@@ -11,7 +11,6 @@ Hi there! I'm Jerita — a passionate data analyst who turns raw data into real 
 ---
 
 <div align="center">
-<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Jeri20"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeri20&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
