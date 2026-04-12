@@ -43,14 +43,22 @@ Hi there! I'm Jerita — a passionate data analyst who turns raw data into real 
 ---
 
 <div align="center">
- ## 🌐 Socials:
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jerita.d537)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@jeriartz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeritad20/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jerita.d537@gmail.com)
+
+
+<a href="https://medium.com/@jerita.d537">
+  <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"/>
+</a>
+<a href="https://www.youtube.com/@jeriartz">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/jeritad20/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:jerita.d537@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+</a>
 
 </div>
-
 ---
 
 <img align="left" height="140" src="https://i.postimg.cc/wjN1mPGg/Screenshot-2025-06-11-160232.png"/>
