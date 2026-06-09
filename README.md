@@ -60,7 +60,7 @@ Hi there! I'm Jerita — a passionate data analyst who turns raw data into real 
 </div>
 
 
-<img align="left" height="140" src="https://i.postimg.cc/wjN1mPGg/Screenshot-2025-06-11-160232.png"/>
+<img align="left" height="160" src="https://i.postimg.cc/wjN1mPGg/Screenshot-2025-06-11-160232.png"/>
 
 <h6 align="left">
 I’m currently working on exciting data projects involving predictive analytics and visualization.<br><br>
