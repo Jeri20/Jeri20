@@ -41,7 +41,7 @@ Hi there! I'm Jerita — a passionate data analyst who turns raw data into real 
 
 ---
 
-<div align="center">
+<div align="center" height="200">
 
 
 <a href="https://medium.com/@jerita.d537">
