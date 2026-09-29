@@ -5,7 +5,7 @@ Hi there! I'm Jerita — a passionate data analyst who turns raw data into real 
 ---
 
 <div align="center">
-  <img height="200" src="https://i.postimg.cc/9MmHcR7s/ezgif-com-animated-gif-maker.gif" />
+  <img height="200" src="https://i.postimg.cc/YCny3TdD/banner1.jpg" />
 </div>
 
 ---
